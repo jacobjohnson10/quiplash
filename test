@@ -1,7 +1,0 @@
-logging
-node_modules
-package-lock.json
-package.json
-quiplash-prompts.json
-src
-test
